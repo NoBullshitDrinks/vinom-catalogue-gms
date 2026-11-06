@@ -54,6 +54,8 @@ issues+= [('10906523','Les Florales - Sans Sulfites','Domaine saisi « Domiane D
  ('FIERCE-MILD / FIERCE-MILD-LAGER','Fierce Mild','Prix catalogue 2,32 € HT/bt (55,60 € HT le carton de 24 x 33 cl, PVC 3,49 € TTC). Achat VINOM 39,50 € HT/carton rendu Paris, palette complète minimum, paiement d’avance. Gencods à fournir ; format bouteille retenu (existe aussi en canette)'),
  ('336001NM / 252005NM / 252001NM','Champagnes scannés le 05/11','Gencods scannés différents de Vinistoria : Baudry Blanc de Noirs 3760089510070 (Vinistoria 3760089510063), Gosset Brut Extra 3353211019994 (3353210019995), Gosset Grande Réserve 3353211012216 (3353211012254) : à corriger dans Vinistoria. Baudry sans visuel'),
  ('336001NM','Baudry Blanc de Noirs Héritage','Visuel provisoire : étiquette « Distinction Brut » de Baudry, pas « Blanc de Noirs Héritage »'),
+ ('FEZAS-*','Fezas : PVC conseillés serrés','Tarif GD Paris 2026 : PVC conseillés 5,70 / 7,60 / 5,95 / 7,75 € pour des prix magasin de 3,90 à 5,48 € HT selon le palier : vérifier s’ils s’entendent TTC (marge magasin très faible au palier 90 bt)'),
+ ('BROCARD-*','Brocard : commission','Prix catalogue = prix Brocard (6,40 / 9,00 € HT), VINOM commissionné : taux à confirmer avec Brocard (VINOM avait proposé 8 % sur la gamme proxi)'),
  ('(tous)','Colonne Visible','À remplir : O pour chaque bouteille à l’étiquette accrocheuse')]
 wb=Workbook();H=Font(name='Arial',bold=True,color='FFFFFF');F=PatternFill('solid',fgColor='1F4E79');A=Font(name='Arial',size=10)
 INP=PatternFill('solid',fgColor='FFF2CC')
